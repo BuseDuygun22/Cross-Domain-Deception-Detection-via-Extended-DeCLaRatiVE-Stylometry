@@ -1,4 +1,4 @@
-# Cross-Domain Deception Detection via Theory-Driven Stylometric Features
+# Cross-Domain Deception Detection via Extended DeCLaRatiVE Stylometry: Theoretically Motivated Features Across Six Communicative Domains
 
 **Author:** Buse Duygun · BSc Data Science, Eindhoven University of Technology (TU/e)  
 **Year:** 2025–2026
@@ -9,7 +9,7 @@
 
 This repository is the GitHub page for the bachelor thesis:
 
-> *Cross-Domain Deception Detection via Extended DeCLaRatiVE Stylometric Features*
+> *Cross-Domain Deception Detection via Extended DeCLaRatiVE Stylometry:Theoretically Motivated Features Across Six Communicative Domains*
 
 ---
 
