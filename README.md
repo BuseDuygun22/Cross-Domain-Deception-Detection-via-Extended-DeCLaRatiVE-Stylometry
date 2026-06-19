@@ -19,7 +19,7 @@ This repository is the GitHub page for the bachelor thesis:
 >
 > All code, datasets, outputs, and documentation are archived on OSF:
 >
-> ## [→ Access the Full Project on OSF](https://osf.io/YOUR_PROJECT_ID)
+> ## [→ Access the Full Project on OSF](https://osf.io/2s3wm/overview?view_only=f53e7a5cfb9b47dd9d0ace2b53cc9330)
 >
 > OSF contains:
 > - `scripts.zip` — complete source code
