@@ -68,7 +68,7 @@ All materials are archived on OSF as ZIP files:
 
 | ZIP File | What It Contains |
 |---|---|
-| **`scripts.zip`** | All pipeline scripts including `run_pipeline.py` (master runner) and `requirements.txt` — all inside `scripts/`. One command reproduces everything: `python scripts/run_pipeline.py --skip-data-prep --skip-feature-check --skip-distilbert` |
+| **`scripts.zip`** | All pipeline scripts including `run_pipeline.py` (master runner) and `requirements.txt` and and `README.md` (full reproduction instructions) — all inside `scripts/`. One command reproduces everything: `python scripts/run_pipeline.py --skip-data-prep --skip-feature-check --skip-distilbert` |
 | **`outputs.zip`** | Complete pipeline outputs for both experimental runs. Includes: within-CV results, LODO results, zero-shot transfer matrices, RQ1 SHAP stability tables, RQ2 theory subset F1 + SHAP heatmaps, RQ3 distance matrices + H3 JSON, and DistilBERT benchmark results (CV/LODO/transfer). Feature caches and Optuna JSONs included as checkpoints. |
 | **`data_cleaned.zip`** | Six processed, deduplicated domain-level CSV files (145,854 rows total, label: 1=truthful / 0=deceptive) ready for the pipeline. |
 | **`quick_feature_check_results.zip`** | Feature screening outputs: all 55 candidates ranked by composite importance, confirming the 7 dropped features and the final 48-feature set. |
